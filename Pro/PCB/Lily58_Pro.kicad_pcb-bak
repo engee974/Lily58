@@ -11,8 +11,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -5337,7 +5337,7 @@
       (xy 1.418714 -2.781746)) (layer F.Cu) (width 0.01))
   )
 
-  (gr_text JLCJLCJLCJLC (at 148.971 134.112) (layer F.SilkS)
+  (gr_text JLCJLCJLCJLC (at 196.1 40.3) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 116.186619 136.480784) (end 117.862313 135.510645) (layer Edge.Cuts) (width 0.2))
@@ -6717,7 +6717,7 @@
   (segment (start 104.3 74.58) (end 104.32 74.6) (width 0.25) (layer B.Cu) (net 57))
   (segment (start 104.3 69.80038) (end 104.3 74.58) (width 0.25) (layer B.Cu) (net 57))
 
-  (zone (net 35) (net_name GND) (layer F.Cu) (tstamp 5EB29E9F) (hatch edge 0.508)
+  (zone (net 35) (net_name GND) (layer F.Cu) (tstamp 5EB34A63) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -8741,7 +8741,7 @@
       )
     )
   )
-  (zone (net 35) (net_name GND) (layer B.Cu) (tstamp 5EB29E9C) (hatch edge 0.508)
+  (zone (net 35) (net_name GND) (layer B.Cu) (tstamp 5EB34A60) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
