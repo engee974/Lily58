@@ -1,4 +1,4 @@
-17004625777483676
+17006215623525492
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -52737,6 +52737,13 @@ LED 3227
 0
 8
 4
+Lily58_Pro-footprint
+SW_MX_Reveresible_RotaryEncoder_EC11
+MX-style keyswitch, reversible, without pcb-mount holes
+MX,cherry,gateron,kailh
+0
+9
+5
 Lily58_Pro-footprint
 StripLED
 
