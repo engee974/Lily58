@@ -1,4 +1,4 @@
-16999857532643280
+17004625777483676
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -52570,6 +52570,13 @@ LED
 3
 3
 Lily58_Pro-footprint
+M2_HOLE_PCB
+
+
+0
+1
+0
+Lily58_Pro-footprint
 MJ-4PP-9
 
 
@@ -52745,6 +52752,13 @@ TACT_SWITCH_TVBP06
 2
 2
 Lily58_Pro-footprint
+TRRS-PJ-320A-dual
+
+
+0
+5
+4
+Lily58_Pro-footprint
 TRRS_JACK_MJ4PP9
 
 
@@ -52767,6 +52781,13 @@ jumper_smd_2dub
 2
 Lily58_Pro-footprint
 lily58_logo
+
+
+0
+0
+0
+Lily58_Pro-footprint
+qmk-badge
 
 
 0
